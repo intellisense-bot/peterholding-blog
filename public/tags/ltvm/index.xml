@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ltvm on Peter Holding Blog</title>
+    <link>http://localhost:1313/tags/ltvm/</link>
+    <description>Recent content in Ltvm on Peter Holding Blog</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ltvm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mục tiêu ngày giao dịch: Kiếm 100 USD</title>
+      <link>http://localhost:1313/posts/ltvm-100usd/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ltvm-100usd/</guid>
+      <description>&lt;p&gt;Trong hành trình &lt;strong&gt;Lập Trình Vận Mệnh&lt;/strong&gt;, chúng ta không chỉ lập trình máy móc – mà còn lập trình &lt;em&gt;chính bản thân&lt;/em&gt;.&lt;br&gt;
+Mục tiêu hôm nay: đạt &lt;strong&gt;+100 USD lợi nhuận&lt;/strong&gt; trong phiên giao dịch vàng.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-mql5&#34; data-lang=&#34;mql5&#34;&gt;double targetProfit = 100.0;
+Print(&amp;#34;Target for today: &amp;#34;, targetProfit);
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>
