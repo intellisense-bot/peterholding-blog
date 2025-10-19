@@ -1,12 +1,4 @@
-## You asked:
-
-Tôi muốn giữ lại các câu trả lời của chatgpt bảo gồm cả format, hay tư vấn cho tôi giải pháp để lưu trữ những câu trả lời này
-
----
-
-## ChatGPT Replied:
-
-Rất hay, Sếp 👌 — việc **lưu lại toàn bộ câu trả lời của ChatGPT (bao gồm cả format, markdown, code block, hình ảnh...)** là cực kỳ hữu ích nếu Sếp đang biên soạn tài liệu, nghiên cứu hay lưu nhật ký giao dịch. Dưới đây là **các giải pháp lưu trữ chuyên nghiệp**, chia theo mục đích và công cụ:
+**các giải pháp lưu trữ chuyên nghiệp**
 
 * * *
 
